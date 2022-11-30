@@ -1,7 +1,4 @@
-﻿int a = 5;, b = 3;
+﻿Console.Write("input a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
 
-
-
-
-Console.WriteLine("my number is " + a + "and" + b + "and it is good!");
-
+"25"
